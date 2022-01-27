@@ -6,8 +6,9 @@ Check here for the results: <a href="https://share.streamlit.io/muditbaid/techfo
 
 <h2>A short glimpse of our work</h2>
 <br>
+<p>As you can see it in the given examples, Various students Maths marks are represented graphically according to their performance. It shows various students are in the Safe zone and a few are in the danger zone, that is, they obtained few marks. We can also see students who performed well and those who are above average. By this labels we can predict the marks of uncoming exams for each student.<p>
 <img src="imgs/maths.png">
 <img src="imgs/physics.png">
 <img src="imgs/chemistry.png">
 
-<p>As you can see it in the above examples, Various students Maths marks are represented graphically according to their performance. It shows various students are in the Safe zone and a few are in the danger zone, that is, they obtained few marks. We can also see students who performed well and those who are above average. By this labels we can predict the marks of uncoming exams for each student.<p>
+
