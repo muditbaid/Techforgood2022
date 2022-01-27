@@ -1,5 +1,5 @@
 # Techforgood2022
-This is a basic student performance analysis with predefined data using basics of machine learning. Here the marks are labelled in a graph for each subject and its chapters.
+This is a basic student performance analysis with predefined data using basics of machine learning. Here the marks are labelled in a graph for each subject and its chapters. It is done using K-Clustering algorithom which is an unsupervised learning algorithm. Here a subject mark's labels are grouped into one single cluster. Here K means the number of clusters that need to be created. Like K=2 means 2 clusters, K=3 means 3 clusters
 
 ## Deployment
 check here for the results: <a href="https://share.streamlit.io/muditbaid/techforgood2022/main/modplott.py">Click here!</a>
